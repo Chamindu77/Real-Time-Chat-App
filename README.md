@@ -120,6 +120,9 @@ This project is a real-time chat application built using MERN, TailwindCSS, Dais
 ### Online User Indication
 
 - Online users are indicated with a green dot.
+  
+  ![image](https://github.com/Chamindu77/Real-Time-Chat-App/assets/117502200/053aac46-8f5c-4e1f-85f6-33338d48df5f)
+
 
 ### Message Persistence
 
