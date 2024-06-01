@@ -144,7 +144,7 @@ This project is a real-time chat application built using MERN, TailwindCSS, Dais
 
 ## Live Demo
 
-- Demo Link:- https://real-time-chat-app-ehdj.onrender.com/login 
+- Demo Link:- https://real-time-chat-app-ehdj.onrender.com/
 
 ![Screenshot 2024-06-01 141204](https://github.com/Chamindu77/Real-Time-Chat-App/assets/117502200/285c7849-6a07-4e1f-9328-9a8ce6ff66fd)
 
