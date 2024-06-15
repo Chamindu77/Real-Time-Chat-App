@@ -1,7 +1,7 @@
 
 # Real-Time Chat Application
 
-<img src="https://github.com/Vindyani1999/My-React-Projects/assets/145743416/bd6daa98-7e6a-4a2e-a1ad-f4ffe056b0cd" width="1000" height="300"/><br>
+<img src="https://github.com/Chamindu77/Real-Time-Chat-App/assets/117502200/f79036b5-e0aa-4a71-8cc0-832746d649b5" width="1000" height="300"/><br>
 <br/>
 This project is a real-time chat application built using MERN, TailwindCSS, Daisy UI, and Socket.io. It provides basic user authentication, real-time messaging, and a simple chat interface. Optional features include message notification sound, online user indication with a green dot, message persistence, and database attck managment.
 
@@ -93,8 +93,8 @@ This project is a real-time chat application built using MERN, TailwindCSS, Dais
 
 ### User Authentication
 
-- Simple user login with a username.
-  ![WhatsApp Image 2024-06-01 at 12 17 57 PM](https://github.com/Vindyani1999/My-React-Projects/assets/145743416/270e242a-bf69-4488-ac6d-a9754da51dc0)
+- Simple user Signup and Signin with username and password.
+ ![Screenshot 2024-06-04 090527](https://github.com/Chamindu77/Real-Time-Chat-App/assets/117502200/4e9bdb91-7ec9-4679-b082-658a205f954e) 
 
 
 ### Chat Interface
@@ -105,7 +105,8 @@ This project is a real-time chat application built using MERN, TailwindCSS, Dais
 ### Real-Time Messaging
 
 - Users can send and receive messages in real-time using Socket.io.
-  ![WhatsApp Image 2024-06-01 at 12 01 46 PM](https://github.com/Vindyani1999/My-React-Projects/assets/145743416/64b28216-a242-4fdd-87cf-5d026ce9e478)
+  ![Screenshot 2024-06-04 090547](https://github.com/Chamindu77/Real-Time-Chat-App/assets/117502200/f044af94-89b1-4e6e-a73f-5dd9a9254541)
+
 
 ## Assumptions and Limitations
 
@@ -128,13 +129,13 @@ This project is a real-time chat application built using MERN, TailwindCSS, Dais
 
 - Chat history is stored in MongoDB.
     - User History
-     ![WhatsApp Image 2024-06-01 at 12 08 54 PM](https://github.com/Vindyani1999/My-React-Projects/assets/145743416/fd2d01fb-2b23-4151-ad6d-cc033011805a)
+    ![Screenshot 2024-06-04 090741](https://github.com/Chamindu77/Real-Time-Chat-App/assets/117502200/87693f05-33b3-489b-b3f3-faab11427b98)
 
     - Message History
-      ![WhatsApp Image 2024-06-01 at 12 09 51 PM](https://github.com/Vindyani1999/My-React-Projects/assets/145743416/bf7ab627-ea7d-4d63-b8d1-3563e9df0abf)
- 
+      ![Screenshot 2024-06-04 090754](https://github.com/Chamindu77/Real-Time-Chat-App/assets/117502200/05664fd3-684e-49ac-957f-07d37111ebcd)
+
     - Conversation History
-       ![WhatsApp Image 2024-06-01 at 12 10 47 PM](https://github.com/Vindyani1999/My-React-Projects/assets/145743416/2a2c328d-d690-490f-b0d6-4f01dceb32c1)
+      ![Screenshot 2024-06-04 090803](https://github.com/Chamindu77/Real-Time-Chat-App/assets/117502200/b0f24b9d-2cc9-459c-8da5-24f132231264)
 
  
 
